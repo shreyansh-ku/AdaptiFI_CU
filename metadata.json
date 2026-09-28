@@ -1,0 +1,6 @@
+{
+  "name": "AdaptiFi",
+  "description": "Real-time contextual accessibility & sensory adaptation engine with AR guidance, haptic wristband calibration, and barrier-free booking",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
